@@ -1,2 +1,3 @@
-# GitKomut
-gitkomutlarını öğrenmek için açtığım depo
+# Git Komutları
+bu depoda benim git hakkında komut örnekleri yer almaktadır.
+
